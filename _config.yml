@@ -25,7 +25,7 @@ linkedin_username: kendra-dunsmoor
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Kendra Dunsmoor. I'm currently a Software Development Engineer II at Amazon who enjoys creating games on the side!
 
@@ -59,7 +59,7 @@ content:
       - layout: left
         title: Stanford University
         caption: 2017 - 2021
-        sub_title: BSc Computer Science
+        sub_title: B.S. in Computer Science, Artificial Intelligence track
 
   - title: A Little More About Me
     layout: text
