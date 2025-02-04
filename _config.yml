@@ -40,7 +40,7 @@ content:
         # link_text: Project Website
         description: | # this will include new lines to allow paragraphs
           Take on your new job guarding the chicken coop from foxes from the old retiring farm dog. This 2D action game was created using Unity engine and C#.
-          <img src="images/CoopCop.JPG" title="CoopCop" width="400"/>
+          <img src="images/CoopCop.JPG" title="CoopCop" class="center" border="1" width="400"/>
       - layout: top-middle
         title: Ice Cream Scream
         profile-img: images/IceCreamScream.JPG
@@ -48,7 +48,7 @@ content:
         # link_text: Project Website
         description: | # this will include new lines to allow paragraphs
           A 2D action game created using Unity engine and C# where you play as a small penguin trying to escape from attacking ice cream monsters!
-          <img src="images/IceCreamScream.JPG" title="IceCreamScream" width="400"/>          
+          <img src="images/IceCreamScream.JPG" title="IceCreamScream" class="center" border="1" width="400"/>          
   
   #- title: Experience # Title for the section
   #  layout: list # Type of content section (list/text)
