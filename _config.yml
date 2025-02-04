@@ -27,19 +27,24 @@ linkedin_username: kendra-dunsmoor
 # about_title: About Me
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Kendra Dunsmoor. I'm currently a Software Development Engineer II at Amazon who enjoys creating games on the side!
+  Hi, my name is Kendra Dunsmoor! I'm a Software Engineer who loves to create games!
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Coop Cop
+        link: https://kendra-dunsmoor.github.io/CoopCop/
+        # link_text: Project Website
+        description: | # this will include new lines to allow paragraphs
+          Take on your new job guarding the chicken coop from foxes from the old retiring farm dog. This 2D action game was created using Unity engine and C#.
+      - layout: top-middle
         title: Ice Cream Scream
         link: https://kendra-dunsmoor.github.io/IceCreamScream
         # link_text: Project Website
         description: | # this will include new lines to allow paragraphs
-          A 2D action game created using Unity engine and C# where you play as a small penguin trying to escape from attacking ice cream monsters!
-  #- title: Experience # Title for the section
+          A 2D action game created using Unity engine and C# where you play as a small penguin trying to escape from attacking ice cream monsters!  #- title: Experience # Title for the section
   #  layout: list # Type of content section (list/text)
   #  content:
   #    - layout: left
@@ -64,7 +69,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in programming some of my other hobbies are:
+      Alongside my interests in programming some of my other hobbies include:
       - Volleyball
       - Painting
       - Baking
