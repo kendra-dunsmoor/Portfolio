@@ -31,7 +31,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Kendra Dunsmoor! I'm a Software Engineer who loves to create games!
+  Hi there! I’m Kendra Dunsmoor, a software engineer who loves building clean, efficient systems by day and creating my own fun games on the side. Whether it's backend work or experimenting with game mechanics, I enjoy solving problems and bringing ideas to life. I’m always looking for new ways to mix creativity with code.
 
 content:
   - title: Projects # Title for the section
