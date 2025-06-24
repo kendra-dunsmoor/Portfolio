@@ -16,6 +16,10 @@ darkmode: false
 # Social links
 github_username:  kendra-dunsmoor
 linkedin_username: kendra-dunsmoor
+additional_links:
+- title: Itch.io
+  icon: fab fa-itch-io
+  url: https://kaejaegames.itch.io/
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -34,9 +38,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Department of Malicious Vagueness
+        profile-img: images/DMV.JPG
+        link: https://kaejaegames.itch.io/dmv
+        # link_text: Project Website
+        description: | # this will include new lines to allow paragraphs
+          In this social rogue-lite game you play as a recently deceased spirit and new hire at the Department of Malicious Vagueness. Work to help process the hordes of deceased in the afterlife while trying not to stand out too much! This 2D strategy game was created using Unity engine and C#.
+          <img src="images/DMV.JPG" title="DMV" class="image"/>
+      - layout: top-middle
         title: Coop Cop
         profile-img: images/CoopCop.JPG
-        link: https://kendra-dunsmoor.github.io/CoopCop/
+        link: https://kaejaegames.itch.io/coop-cop
         # link_text: Project Website
         description: | # this will include new lines to allow paragraphs
           Take on your new job guarding the chicken coop from foxes from the old retiring farm dog. This 2D action game was created using Unity engine and C#.
@@ -44,11 +56,19 @@ content:
       - layout: top-middle
         title: Ice Cream Scream
         profile-img: images/IceCreamScream.JPG
-        link: https://kendra-dunsmoor.github.io/IceCreamScream
+        link: https://kaejaegames.itch.io/ice-cream-scream
         # link_text: Project Website
         description: | # this will include new lines to allow paragraphs
           A 2D action game created using Unity engine and C# where you play as a small penguin trying to escape from attacking ice cream monsters!
-          <img src="images/IceCreamScream.JPG" title="IceCreamScream" class="image"/>          
+          <img src="images/IceCreamScream.JPG" title="IceCreamScream" class="image"/>
+      - layout: top-middle
+        title: Smokestack Spirits
+        profile-img: images/Smokestack.JPG
+        link: https://seedfound.itch.io/smokestack-spirits
+        # link_text: Project Website
+        description: | # this will include new lines to allow paragraphs
+          Smokestack Spirits is a  TTRPG where you and your companions must learn to navigate the conflicts of a world divided between spirits and technology!
+          <img src="images/Smokestack.JPG" title="SmokestackSpirits" class="image"/>             
   
   #- title: Experience # Title for the section
   #  layout: list # Type of content section (list/text)
@@ -71,6 +91,10 @@ content:
         title: Stanford University
         caption: 2017 - 2021
         sub_title: B.S. in Computer Science, Artificial Intelligence track
+      - layout: top-middle
+        title: University of Washington
+        caption: 2024 - 2025
+        sub_title: Certificate in Game Design
 
   - title: A Little More About Me
     layout: text
