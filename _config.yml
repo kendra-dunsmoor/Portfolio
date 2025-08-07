@@ -31,12 +31,22 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi there! I’m Kendra Dunsmoor, a software engineer who loves building clean, efficient systems by day and creating my own fun games on the side. Whether it's backend work or experimenting with game mechanics, I enjoy solving problems and bringing ideas to life. I’m always looking for new ways to mix creativity with code.
+  Hi there, I’m Kendra Dunsmoor! I’m a versatile and detail-oriented Software Engineer with a strong background in building clean, scalable systems. I’m now actively transitioning into professional game development; something I’ve been passionate about pursuing for a long time. I enjoy working with creative people to solve tough problems and bring immersive user experiences to life through code. 
+
+  Please feel free to reach out if you'd like to connect or collaborate on any projects. I'm always open to new ideas and opportunities!
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: Defensive Invaders
+        profile-img: images/DefensiveInvaders.JPG
+        link: https://zedain.itch.io/defensive-invaders
+        # link_text: Project Website
+        description: | # this will include new lines to allow paragraphs
+          Defensive Invaders is a 2D tower defense game that was created for the GamePlay First 2025 game jam using Unity engine and C#. After crashing on an alien planet, you must mine resources to repair your ship and escape while fending off attacking monsters!
+          <img src="images/DefensiveInvaders.JPG" title="DefensiveInvaders" class="image"/>
       - layout: top-middle
         title: Department of Malicious Vagueness
         profile-img: images/DMV.JPG
